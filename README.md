@@ -1,2 +1,2 @@
-# crypto
+# Crypto
 MSc Project
